@@ -26,16 +26,6 @@ function johnLennonFacts(array){
   return emptyArray
 }
 
-function johnLennonFacts(array){
-  var i = 0
-  var n = array.length
-  while ( i < n ){
-    array.push("!!!")
-    i++
-  }
-  return array
-}
-
 johnLennonFacts(facts)
 
 function iLoveTheBeatles(num){
